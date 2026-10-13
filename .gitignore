@@ -1,0 +1,6 @@
+# Local machine-specific configuration — not published.
+/.claude/
+
+# Original full-resolution source image — not published;
+# the published copy is docs/images/biopython-ai4bio-hero.png.
+/image/
