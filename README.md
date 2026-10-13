@@ -44,6 +44,12 @@ If you use Biopython in scientific work, the project asks that you cite the 2009
 
 All sources used by this repository, with verification status and claim mapping, are in [7. References](docs/07-references.md).
 
+## Author
+
+Author: Kelvin Chandra Djayapranata — [GitHub](https://github.com/kelvinchandradjayapranata-hue) · [LinkedIn](https://cn.linkedin.com/in/kelvin-chandra-djaya-pranata-1abb1742a).
+
+Related repository: [ai-biotech](https://github.com/kelvinchandradjayapranata-hue/ai-biotech) — an early-stage AI4Bio research project on protein structure analysis and residue-level feature datasets.
+
 ## License and attribution
 
 © 2026 kelvinchandradjayapranata-hue. The documentation text and images created for this repository are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0), applied by the copyright holder **to the extent of the rights held**. *This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/* — attribution: `kelvinchandradjayapranata-hue`, 2026. The full legal code is in [LICENSE](LICENSE).
